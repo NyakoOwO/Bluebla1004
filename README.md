@@ -17,7 +17,8 @@
 
 
 <div align="center">
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluebla1004&show_icons=true)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=blue_bla)](https://solved.ac/blue_bla)	
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluebla1004&layout=compact">
     
 </div>
