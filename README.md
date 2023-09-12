@@ -1,24 +1,11 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=0000FF&text=Blue's%20GitHub%20&height=150&fontSize=60)
-
-<p align="center">
-    언어
-  <br>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-</p>
 
 
-<p align="center">
-    배워본 언어
-  <br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>
-</p>
+<a href="./" target="_blank"><img src="https://img.shields.io/badge/Window11-0078D4?style=flat-square&logo=windows11&logoColor=FFFFFF"/></a>
+<a href="https://www.discord.com" target="_blank"><img src="https://img.shields.io/badge/Blue__bla-5865F2?style=flat-square&logo=Discord&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/jeongmin________/" target="_blank"><img src="https://img.shields.io/badge/jeongmin________-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/Blue__bla@nave.com-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
 
 
-<div align="center">
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=blue_bla)](https://solved.ac/blue_bla)	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluebla1004&layout=compact">
-    
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluebla1004&show_icons=true&theme=holi)
